@@ -1,0 +1,59 @@
+C:\Users\Informatika\Downloads\wpfapp-main\wpfapp-main\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Informatika\Downloads\wpfapp-main\wpfapp-main\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Informatika\Downloads\wpfapp-main\wpfapp-main\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Informatika\Downloads\wpfapp-main\wpfapp-main\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Informatika\Downloads\wpfapp-main\wpfapp-main\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Informatika\Downloads\wpfapp-main\wpfapp-main\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Informatika\Downloads\wpfapp-main\wpfapp-main\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Informatika\Downloads\wpfapp-main\wpfapp-main\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Informatika\Downloads\wpfapp-main\wpfapp-main\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Informatika\Downloads\wpfapp-main\wpfapp-main\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Informatika\Downloads\wpfapp-main\wpfapp-main\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Informatika\Downloads\wpfapp-main\wpfapp-main\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Informatika\Downloads\wpfapp-main\wpfapp-main\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Informatika\Downloads\wpfapp-main\wpfapp-main\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Informatika\Downloads\wpfapp-main\wpfapp-main\WpfApp1\obj\Debug\WpfApp1.pdb
+G:\Új mappa (2)\boldi\wpfapp-main\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+G:\Új mappa (2)\boldi\wpfapp-main\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+G:\Új mappa (2)\boldi\wpfapp-main\WpfApp1\obj\Debug\kosar.g.cs
+G:\Új mappa (2)\boldi\wpfapp-main\WpfApp1\obj\Debug\MainWindow.g.cs
+G:\Új mappa (2)\boldi\wpfapp-main\WpfApp1\obj\Debug\Window1.g.cs
+G:\Új mappa (2)\boldi\wpfapp-main\WpfApp1\obj\Debug\App.g.cs
+G:\Új mappa (2)\boldi\wpfapp-main\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+G:\Új mappa (2)\boldi\wpfapp-main\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+G:\Új mappa (2)\boldi\wpfapp-main\WpfApp1\obj\Debug\WpfApp1.exe
+G:\Új mappa (2)\boldi\wpfapp-main\WpfApp1\obj\Debug\WpfApp1.pdb
+G:\Új mappa (2)\boldi\wpfapp-main\WpfApp1\bin\Debug\WpfApp1.exe.config
+G:\Új mappa (2)\boldi\wpfapp-main\WpfApp1\bin\Debug\WpfApp1.exe
+G:\Új mappa (2)\boldi\wpfapp-main\WpfApp1\bin\Debug\WpfApp1.pdb
+G:\Új mappa (2)\boldi\wpfapp-main\WpfApp1\obj\Debug\Window2.g.cs
+G:\Új mappa (2)\boldi\wpfapp-main\WpfApp1\obj\Debug\kosar.baml
+G:\Új mappa (2)\boldi\wpfapp-main\WpfApp1\obj\Debug\MainWindow.baml
+G:\Új mappa (2)\boldi\wpfapp-main\WpfApp1\obj\Debug\Window1.baml
+G:\Új mappa (2)\boldi\wpfapp-main\WpfApp1\obj\Debug\Window2.baml
+G:\Új mappa (2)\boldi\wpfapp-main\WpfApp1\obj\Debug\WpfApp1.g.resources
+G:\Új mappa (2)\boldi\wpfapp-main\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+G:\Új mappa (2)\boldi\wpfapp-main\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+G:\Új mappa (2)\boldi\wpfapp-main\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Kaluszz\wpfapp\esti 05.31\wpfapp-main\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Kevin\source\repos\Kaluszz\wpfapp\esti 05.31\wpfapp-main\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Kevin\source\repos\Kaluszz\wpfapp\esti 05.31\wpfapp-main\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Kevin\source\repos\Kaluszz\wpfapp\esti 05.31\wpfapp-main\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Kevin\source\repos\Kaluszz\wpfapp\esti 05.31\wpfapp-main\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kevin\source\repos\Kaluszz\wpfapp\esti 05.31\wpfapp-main\WpfApp1\obj\Debug\kosar.g.cs
+C:\Users\Kevin\source\repos\Kaluszz\wpfapp\esti 05.31\wpfapp-main\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Kevin\source\repos\Kaluszz\wpfapp\esti 05.31\wpfapp-main\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\Kevin\source\repos\Kaluszz\wpfapp\esti 05.31\wpfapp-main\WpfApp1\obj\Debug\Window2.g.cs
+C:\Users\Kevin\source\repos\Kaluszz\wpfapp\esti 05.31\wpfapp-main\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Kevin\source\repos\Kaluszz\wpfapp\esti 05.31\wpfapp-main\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Kevin\source\repos\Kaluszz\wpfapp\esti 05.31\wpfapp-main\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Kevin\source\repos\Kaluszz\wpfapp\esti 05.31\wpfapp-main\WpfApp1\obj\Debug\kosar.baml
+C:\Users\Kevin\source\repos\Kaluszz\wpfapp\esti 05.31\wpfapp-main\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Kevin\source\repos\Kaluszz\wpfapp\esti 05.31\wpfapp-main\WpfApp1\obj\Debug\Window1.baml
+C:\Users\Kevin\source\repos\Kaluszz\wpfapp\esti 05.31\wpfapp-main\WpfApp1\obj\Debug\Window2.baml
+C:\Users\Kevin\source\repos\Kaluszz\wpfapp\esti 05.31\wpfapp-main\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Kevin\source\repos\Kaluszz\wpfapp\esti 05.31\wpfapp-main\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Kevin\source\repos\Kaluszz\wpfapp\esti 05.31\wpfapp-main\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\Kaluszz\wpfapp\esti 05.31\wpfapp-main\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Kaluszz\wpfapp\esti 05.31\wpfapp-main\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Kevin\source\repos\Kaluszz\wpfapp\esti 05.31\wpfapp-main\WpfApp1\obj\Debug\WpfApp1.pdb
